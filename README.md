@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blu-rayy
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate with my classmates
+- 💞️ I’m looking to collaborate with friends
 - 📫 How to reach me kristiandavidbautista@gmail.com
 - 😄 Pronouns: he/him
 
