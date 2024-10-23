@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning and growing as the days go by
 - 💞️ I’m looking to collaborate with my peers, classmates, and maybe you!
 
-# How to reach me?
+# 📬 How to reach me?
 <!--
 source for adding more badges in the future:
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
@@ -31,7 +31,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file
 -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
 
-# My stats!
+# 🔢 My stats!
 <!-- 
 source for modifying in the future:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization
