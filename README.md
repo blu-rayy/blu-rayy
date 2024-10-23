@@ -4,6 +4,10 @@
 - 📫 How to reach me: kristiandavidbautista@gmail.com
 
 # How to reach me?
+<!--
+source for adding more badges in the future:
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
+-->
 
 <a href="https://202311645.wixstudio.io/kristian-bautista" onclick="window.open(this.href); return false;">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
@@ -21,14 +25,18 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-
-
-
 # Software and Languages Used
+<!--
+source for adding more icons:
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file
+-->
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
 
 # My stats!
-
+<!-- 
+source for modifying in the future:
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization
+-->
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr>
     <td style="padding: 0;">
