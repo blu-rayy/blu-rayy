@@ -10,20 +10,21 @@
 
 # My stats!
 
-<table border="0">
+<table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr>
-    <td>
+    <td style="padding: 0;">
       <a href="https://github.com/blu-rayy">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=blu-rayy&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent&title_color=ffffff&text_color=ffffff" />
       </a>
     </td>
-    <td>
+    <td style="padding: 0;">
       <a href="https://github.com/blu-rayy">
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-rayy&layout=compact&langs_count=8&card_width=320&theme=transparent&title_color=ffffff&text_color=ffffff" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
