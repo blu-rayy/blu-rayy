@@ -14,7 +14,7 @@
   <tr>
     <td>
       <a href="https://github.com/blu-rayy">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=blu-rayy&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=blu-rayy&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent&title_color=ffffff&text_color=ffffff" />
       </a>
     </td>
     <td>
@@ -24,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
