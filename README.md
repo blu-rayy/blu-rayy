@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate with my peers, classmates, and maybe you!
 - 📫 How to reach me: kristiandavidbautista@gmail.com
 
-## Software and Languages Used
+# How to reach me?
+
+# Software and Languages Used
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
 
