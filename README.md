@@ -5,12 +5,16 @@
 
 # How to reach me?
 
-<a href="mailto:kristiandavidbautista@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="https://202311645.wixstudio.io/kristian-bautista" onclick="window.open(this.href); return false;">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
 </a>
 
 <a href="https://www.linkedin.com/in/kristian-bautista-1a5a60307/" onclick="window.open(this.href); return false;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:kristiandavidbautista@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://www.facebook.com/D8VDD/" onclick="window.open(this.href); return false;">
