@@ -5,7 +5,10 @@
 
 # How to reach me?
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:kristiandavidbautista@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 # Software and Languages Used
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
