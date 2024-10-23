@@ -1,7 +1,6 @@
 # 👋 Hi! My Name is blu-rayy!
 - 🌱 I’m currently learning and growing as the days go by
 - 💞️ I’m looking to collaborate with my peers, classmates, and maybe you!
-- 📫 How to reach me: kristiandavidbautista@gmail.com
 
 # How to reach me?
 <!--
