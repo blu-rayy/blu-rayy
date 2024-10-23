@@ -10,7 +10,7 @@
 
 # My stats!
 
-<table border = "0">
+<table border="0">
   <tr>
     <td>
       <a href="https://github.com/blu-rayy">
@@ -24,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
