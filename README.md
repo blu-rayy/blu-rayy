@@ -19,11 +19,12 @@
     </td>
     <td>
       <a href="https://github.com/blu-rayy">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-rayy&layout=compact&langs_count=8&card_width=320" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-rayy&layout=compact&langs_count=8&card_width=320&theme=transparent" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
