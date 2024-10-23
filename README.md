@@ -1,9 +1,8 @@
 <html><h1> Hi! My Name is Kristian! </h1></html>
-- 👋 Hi, I’m @blu-rayy
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate with friends
-- 📫 How to reach me kristiandavidbautista@gmail.com
-- 😄 Pronouns: he/him
+<p>- 👋 Hi, I’m @blu-rayy</p>
+<p>- 🌱 I’m currently learning and growing as the days goes by</p>
+<p>- 💞️ I’m looking to collaborate with my peers, classmates, and maybe you!</p>
+<p>- 📫 How to reach me kristiandavidbautista@gmail.com</p>
 
 <HTML><h1> Software and Languages Used </h1></HTML>
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
