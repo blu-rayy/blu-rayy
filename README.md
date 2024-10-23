@@ -24,7 +24,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-# Software and Languages Used
+# 👨‍💻 Software and Languages Used
 <!--
 source for adding more icons:
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file
