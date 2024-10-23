@@ -14,18 +14,16 @@
   <tr>
     <td>
       <a href="https://github.com/blu-rayy">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=blu-rayy&show_icons=true&theme=transparent" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=blu-rayy&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff" />
       </a>
     </td>
     <td>
       <a href="https://github.com/blu-rayy">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-rayy&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-rayy&layout=compact&langs_count=8&card_width=320&theme=transparent&title_color=ffffff&text_color=ffffff" />
       </a>
     </td>
   </tr>
 </table>
-
-
 
 
 
