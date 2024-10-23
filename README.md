@@ -5,7 +5,7 @@
 
 # How to reach me?
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 # Software and Languages Used
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
