@@ -10,6 +10,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,vscode,figma,pr,ps,ae)](https://skillicons.dev)
 
+# My stats!
+![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue)
+
 
 <!---
 blu-rayy/blu-rayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
