@@ -12,7 +12,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
 </a>
 
-<a href="https://www.linkedin.com/in/kristian-bautista-1a5a60307/" onclick="window.open(this.href); return false;">
+<a href="https://www.linkedin.com/in/kristian-david-bautista-1a5a60307/" onclick="window.open(this.href); return false;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
