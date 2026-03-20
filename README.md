@@ -29,7 +29,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
 source for adding more icons:
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file
 -->
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,php,kotlin,matlab,androidstudio,html,css,js,vscode,figma,pr,ps,ae,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,php,kotlin,supabase,sqlite,matlab,androidstudio,html,css,js,tailwind,nodejs,ts,vscode,figma,pr,ps,ae,ai)](https://skillicons.dev)
 
 # 🔢 My stats!
 <!-- 
